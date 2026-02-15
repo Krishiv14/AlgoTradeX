@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📈 AlgoTradeX - Algorithmic Trading Platform
 
 > **High-performance backtesting and paper trading platform for NSE stocks with comprehensive risk management and analytics**
