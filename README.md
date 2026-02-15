@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 AlgoTradeX - Algorithmic Trading Platform
 
 > **High-performance backtesting and paper trading platform for NSE stocks with comprehensive risk management and analytics**
@@ -429,3 +430,6 @@ This project is for **educational purposes only**. It is not financial advice. P
 
 **⭐ If you found this project helpful, please give it a star!**
 
+=======
+# AlgoTradeX
+>>>>>>> f266516643ee9bb48ccb9a93f9be0e5bbf210c9c

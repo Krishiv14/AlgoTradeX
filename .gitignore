@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿__pycache__/
 *.py[cod]
 *$py.class
@@ -9,3 +10,39 @@ env/
 .env
 *.db
 .DS_Store
+=======
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.aab
+*.apk
+output-metadata.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+>>>>>>> f266516643ee9bb48ccb9a93f9be0e5bbf210c9c
